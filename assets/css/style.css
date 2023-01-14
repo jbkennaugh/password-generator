@@ -13,8 +13,8 @@ body,
 }
 
 body {
-  font-family: sans-serif;
-  background-color: #f9fbfd;
+  font-family: 'ABeeZee';
+  background-color: #361D32;
 }
 
 .wrapper {
@@ -27,15 +27,15 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: #edd2cb;
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #f1e8e6;
   border-radius: 5px;
   border-width: 1px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  box-shadow: #edd2cb 0px 2px 8px 0px;
+  color: #543c52;
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
@@ -73,12 +73,13 @@ header {
 }
 
 .btn {
+  font-family: 'ABeeZee';
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: #f55951;
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
-  color: hsl(0, 0%, 100%);
+  color: #361D32;
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
@@ -98,24 +99,27 @@ button[disabled] {
 }
 
 #password {
+  font-family: 'ABeeZee';
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
   border: none;
   display: block;
   width: 100%;
-  padding-top: 15px;
+  padding-top: 85px;
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 85px;
   font-size: 1.2rem;
+  color: #edd2cb;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+  border:3px solid #edd2cb;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  background-color: #361D32;
 }
 
 @media (max-width: 690px) {
