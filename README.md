@@ -4,6 +4,7 @@ A JavaScript password generator that uses preset arrays of character types and a
 ## Deployment
 
 __[Github Repository](https://github.com/jbkennaugh/password-generator)__
+
 __[Deployed Website](https://jbkennaugh.github.io/password-generator/)__
 
 ## Screenshot 
